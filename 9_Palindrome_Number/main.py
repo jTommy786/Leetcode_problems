@@ -1,3 +1,11 @@
+""""
+Submitted: September 1st, 2026
+
+Runtime: 11ms, beats 36,97%
+
+Memory: 19,43mb, beats 19,35%
+"""
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         y = x
