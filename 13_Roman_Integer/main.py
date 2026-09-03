@@ -1,3 +1,12 @@
+'''
+Submitted: September 3, 2026
+
+Runtime: 5ms, beats 51,81%
+
+Memory: 19,14mb, beats 89,58%
+'''
+
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         result = 0
